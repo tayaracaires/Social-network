@@ -1,4 +1,20 @@
+.boxTop 
+{
+  display: flex;
+  flex-direction: row;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-self: flex-start;
+}
+.menuTop
+{
+  display: flex;
+}
 
+.name
+{
+  display:flex;
+}
 
 body
 {
@@ -148,4 +164,10 @@ a:hover
 #menuToggle input:checked ~ ul
 {
   transform: none;
+}
+
+header{
+
+background-image: url("Images/Henrietta.jpg");
+
 }
