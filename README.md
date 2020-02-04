@@ -67,7 +67,7 @@ _Foto do layout mobile_
 ![mobile](src/images/mobile.jpeg)
 
 ***
-## 5. Ferramenstas utilizadas
+## 5. Ferramentas utilizadas
 ***
 
 Para desenvolver a aplicação, utilizamos as seguintes ferramentas:
