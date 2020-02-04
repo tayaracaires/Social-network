@@ -15,7 +15,7 @@
 
 Esta é uma rede social desenvolvida para aproximar amantes da astronomia, possibilitando assim trocas de informações. A partir das histórias de usuários fornecidas desenvolvemos funcionalidades de acordo com as necessidades.
 
-O nome da rede social foi escolhido como forma de homenagear Henrietta Swan Leavitt,uma astrônoma que iniciou a sua carreira medindo e catalogando o brilho de estrelas da coleção de chapas fotográficas no Harvard College Observatory.Na época (1893), não era permitido a mulheres operar telescópios e mesmo assim se firmou na área, trazendo grande descobertas como a relação período-luminosidade. 
+O nome da rede social foi escolhido como forma de homenagear Henrietta Swan Leavitt,uma astrônoma que iniciou a sua carreira medindo e catalogando o brilho de estrelas da coleção de chapas fotográficas no Harvard College Observatory.Na época (1893), não era permitido a mulheres operar telescópios e mesmo assim se firmou na área, trazendo grandes descobertas como a relação período-luminosidade. 
 
 Para mais informações sobre a vida e carreira de Henrietta acesse: 
 
